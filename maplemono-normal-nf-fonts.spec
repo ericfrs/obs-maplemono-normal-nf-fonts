@@ -1,7 +1,7 @@
 Name:           maplemono-normal-nf-fonts
 Version:        7.8
 Release:        0
-Summary:        Maple Mono is an open source monospace font focused on smoothing your coding flow
+Summary:        Maple Mono monospace font with nerd fonts patches
 BuildArch:      noarch
 License:        OFL-1.1
 URL:            https://github.com/subframe7536/maple-font
@@ -39,3 +39,5 @@ install -Dpm 644 %{SOURCE2} %{buildroot}%{_docdir}/%{name}/OFL.txt
 %{_datadir}/fonts/truetype/maplemono-nf-unhinted/*.ttf
 
 %changelog
+* Fri Oct 24 2025 - 7.8
+- Initial package
