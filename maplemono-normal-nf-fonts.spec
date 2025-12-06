@@ -1,5 +1,5 @@
 Name:           maplemono-normal-nf-fonts
-Version:        7.8
+Version:        7.9
 Release:        0
 Summary:        Maple Mono monospace font with nerd fonts patches
 BuildArch:      noarch
