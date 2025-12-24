@@ -1,4 +1,4 @@
-Name:           maplemono-normal-nf-fonts
+Name:           maplemono-nf-fonts
 Version:        7.9
 Release:        0
 Summary:        Maple Mono monospace font with nerd fonts patches
