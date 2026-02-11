@@ -1,4 +1,4 @@
-Name:           maplemono-nf-fonts
+Name:           maplemono-nf-unhinted-fonts
 Version:        7.9
 Release:        0
 Summary:        Maple Mono monospace font with nerd fonts patches
@@ -39,5 +39,3 @@ install -Dpm 644 %{SOURCE2} %{buildroot}%{_docdir}/%{name}/OFL.txt
 %{_datadir}/fonts/truetype/maplemono-nf-unhinted/*.ttf
 
 %changelog
-* Fri Oct 24 2025 - 7.8
-- Initial package
